@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/goinaction/code/chapter3/words"
+	"github.com/denyu95/go-in-action-code/chapter3/words"
 )
 
 // main is the entry point for the application.

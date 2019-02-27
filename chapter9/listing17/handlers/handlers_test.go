@@ -8,7 +8,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/goinaction/code/chapter9/listing17/handlers"
+	"github.com/denyu95/go-in-action-code/chapter9/listing17/handlers"
 )
 
 const checkMark = "\u2713"

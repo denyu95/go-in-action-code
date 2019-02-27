@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/goinaction/code/chapter7/patterns/runner"
+	"github.com/denyu95/go-in-action-code/chapter7/patterns/runner"
 )
 
 // timeout is the number of second the program has to finish.
